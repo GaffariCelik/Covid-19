@@ -12,7 +12,7 @@
 # Roc_CURVE
 ![Fig-7](https://user-images.githubusercontent.com/79109465/194858007-fab2ea83-4600-42b0-b75d-1d299c04271d.jpg)
 
-#Grad-CAM
+# Grad-CAM
 ![Fig-8](https://user-images.githubusercontent.com/79109465/194858524-81fe9357-46fc-4fab-99d5-4de6bcc82df4.jpg)
 
 # Future Extraction
