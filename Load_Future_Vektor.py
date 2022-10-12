@@ -34,7 +34,6 @@ def load_test(val_generator):
     testX, testY = next(test_set)
     BS=32
     for i in range(test_set.samples//BS):
-      print(i)
       img, label = next(test_set)
       testX = np.append(testX, img, axis=0 )
       testY = np.append(testY, label, axis=0)
@@ -48,7 +47,6 @@ def load_train(train_generator):
     BS=32
     
     for i in range(train_set.samples//BS): 
-      print(i)
       img, label = next(train_set)
       trainX = np.append(trainX, img, axis=0 )
       trainY = np.append(trainY, label, axis=0)
