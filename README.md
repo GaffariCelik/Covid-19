@@ -2,8 +2,7 @@
 
 ![Fig-5](https://user-images.githubusercontent.com/79109465/195007478-63b31549-e53c-4786-aa68-841d38a6611e.jpg)
 
-# Feature reuse residual block architecture-(a) and depthwise dilated convolutions architecture-(b)
-, which constitute the basic structure of the proposed architecture
+# Feature reuse residual block architecture-(a) and depthwise dilated convolutions architecture-(b), which constitute the basic structure of the proposed architecture
 
 ![image](https://user-images.githubusercontent.com/79109465/196099011-b05c361c-8e56-4d89-abc1-5a07ac4ab9dc.png)
 
