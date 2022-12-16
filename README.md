@@ -1,3 +1,11 @@
+# Updated version and Code metadata
+
+https://doi.org/10.24433/CO.2183919.v1
+
+# Citation and More Information:
+
+Celik, G. (2023). Detection of Covid-19 and other pneumonia cases from CT and X-ray chest images using deep learning based on feature reuse residual block and depthwise dilated convolutions neural network. Applied Soft Computing, 133, 109906. https://doi.org/10.1016/j.asoc.2022.109906
+
 # CovidDWNet
 
 ![Fig-5](https://user-images.githubusercontent.com/79109465/195007478-63b31549-e53c-4786-aa68-841d38a6611e.jpg)
@@ -18,10 +26,5 @@
 
 ![image](https://user-images.githubusercontent.com/79109465/196098573-6608cdf2-40bb-4ca5-b836-32677ddc1b9f.png)
 
-# Updated version and Code metadata
 
-https://doi.org/10.24433/CO.2183919.v1
 
-# Citation and More Information:
-
-Celik, G. (2023). Detection of Covid-19 and other pneumonia cases from CT and X-ray chest images using deep learning based on feature reuse residual block and depthwise dilated convolutions neural network. Applied Soft Computing, 133, 109906. https://doi.org/10.1016/j.asoc.2022.109906
